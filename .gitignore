@@ -1,0 +1,16 @@
+# dependencies
+node_modules/
+
+# cordova dependencies
+platforms/
+plugins/
+
+# building
+www
+www/
+www.org/
+
+# react app dependencies
+src/build/
+src/node_modules/
+
